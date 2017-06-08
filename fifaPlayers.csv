@@ -1,0 +1,1024 @@
+0,Cristiano Ronaldo,94,LW,31
+1,Messi,93,RW,29
+2,Neuer,92,GK,30
+3,Suárez,92,ST,29
+4,Neymar,92,LW,24
+5,Ibrahimović,90,ST,34
+6,Bale,90,RW,27
+7,Boateng,90,CB,28
+8,Lewandowski,90,ST,28
+9,De Gea,90,GK,25
+10,Agüero,89,ST,28
+11,Sergio Ramos,89,CB,30
+12,Thiago Silva,89,CB,31
+13,Özil,89,CAM,27
+14,Modrić,89,CM,31
+15,Courtois,89,GK,24
+16,Iniesta,88,CM,32
+17,Buffon,88,GK,38
+18,Čech,88,GK,34
+19,Pepe,88,CB,33
+20,Lahm,88,RB,32
+21,Chiellini,88,CB,32
+22,Higuaín,88,ST,28
+23,Lloris,88,GK,29
+24,Godín,88,CB,30
+25,Kroos,88,CM,26
+26,Hazard,88,LM,25
+27,Reus,88,LM,27
+28,De Bruyne,88,CAM,25
+29,Griezmann,88,ST,25
+30,Pogba,88,CM,23
+31,Robben,87,RM,32
+32,Handanovič,87,GK,32
+33,Benzema,87,ST,28
+34,David Silva,87,CAM,30
+35,Rakitić,87,CM,28
+36,Hummels,87,CB,27
+37,Vidal,87,CM,29
+38,Di María,87,RW,28
+39,Bonucci,87,CB,29
+40,Sánchez,87,LW,27
+41,Sergio Busquets,87,CDM,28
+42,Müller,87,CF,27
+43,Alaba,87,LB,24
+44,Rodríguez,87,CAM,25
+45,Oblak,87,GK,23
+46,Barzagli,86,CB,35
+47,Kompany,86,CB,30
+48,Santi Cazorla,86,CAM,31
+49,Piqué,86,CB,29
+50,Ribéry,86,LM,33
+51,Cesc Fàbregas,86,CM,29
+52,Miranda,86,CB,32
+53,Matuidi,86,CDM,29
+54,Marchisio,86,CM,30
+55,Marcelo,86,LB,28
+56,Payet,86,LM,29
+57,Aubameyang,86,ST,27
+58,Jordi Alba,86,LB,27
+59,Leno,86,GK,24
+60,Mascherano,85,CB,32
+61,Dani Alves,85,RB,33
+62,Mandanda,85,GK,31
+63,Filipe Luís,85,LB,31
+64,Koscielny,85,CB,31
+65,Ruffier,85,GK,29
+66,Hamšik,85,CM,29
+67,Bravo,85,GK,33
+68,Cavani,85,ST,29
+69,Diego Costa,85,ST,27
+70,Pjanić,85,CM,26
+71,Willian,85,RM,28
+72,Alderweireld,85,CB,27
+73,Gaitán,85,LM,28
+74,Gündoğan,85,CM,25
+75,Coutinho,85,CAM,24
+76,Pastore,85,CM,27
+77,Otamendi,85,CB,28
+78,Mkhitaryan,85,RM,27
+79,Navas,85,GK,29
+80,Lacazette,85,ST,25
+81,Verratti,85,CM,23
+82,Mahrez,85,RM,25
+83,Dybala,85,ST,22
+84,Terry,84,CB,35
+85,Touré,84,CM,33
+86,José Reina,84,GK,34
+87,Xabi Alonso,84,CDM,34
+88,Rooney,84,CAM,30
+89,Aduriz,84,ST,35
+90,Turan,84,CM,29
+91,Hart,84,GK,29
+92,Ben Arfa,84,CAM,29
+93,Garay,84,CB,29
+94,Sturridge,84,ST,27
+95,Naldo,84,CB,34
+96,Sokratis,84,CB,28
+97,Jonas,84,ST,32
+98,Javi Martinez,84,CB,28
+99,Sommer,84,GK,27
+100,Rui Patrício,84,GK,28
+101,Juan Mata,84,CAM,28
+102,Nainggolan,84,CM,28
+103,Banega,84,CAM,28
+104,Fährmann,84,GK,27
+105,Höwedes,84,CB,28
+106,David Luiz,84,CB,29
+107,Azpilicueta,84,LB,27
+108,Toprak,84,CB,27
+109,Ramsey,84,CM,25
+110,Thiago,84,CM,25
+111,Smalling,84,CB,26
+112,Eriksen,84,CAM,24
+113,Douglas Costa,84,LM,26
+114,Alex Sandro,84,LB,25
+115,Matić,84,CDM,28
+116,Götze,84,CAM,24
+117,Lukaku,84,ST,23
+118,Manolas,84,CB,25
+119,Koke,84,CM,24
+120,Krychowiak,84,CDM,26
+121,Isco,84,CAM,24
+122,Xhaka,84,CM,23
+123,Varane,84,CB,23
+124,Kane,84,ST,23
+125,Draxler,84,CAM,23
+126,William Carvalho,84,CDM,24
+127,Bacca,84,ST,30
+128,André Gomes,84,CM,23
+129,Laporte,84,CB,22
+130,Quaresma,83,RM,32
+131,Danny,83,CAM,33
+132,Júlio César,83,GK,37
+133,De Rossi,83,CDM,33
+134,Mertesacker,83,CB,31
+135,Lichtsteiner,83,RB,32
+136,Toulalan,83,CDM,33
+137,Schweinsteiger,83,CM,32
+138,Nani,83,LW,29
+139,Sneijder,83,CAM,32
+140,Enyeama,83,GK,34
+141,Rodríguez,83,CB,32
+142,Tévez,83,ST,32
+143,Juanfran,83,RB,31
+144,Borja Valero,83,CAM,31
+145,João Moutinho,83,CAM,30
+146,Consigli,83,GK,29
+147,Baines,83,LB,31
+148,Diarra,83,CDM,31
+149,Williams,83,CB,32
+150,Cahill,83,CB,30
+151,Diego Alves,83,GK,31
+152,José Fonte,83,CB,32
+153,Begović,83,GK,29
+154,Vertonghen,83,CB,29
+155,Mertens,83,LW,29
+156,Gameiro,83,ST,29
+157,Bender,83,CDM,27
+158,Benatia,83,CB,29
+159,Hernández,83,ST,28
+160,Giroud,83,ST,29
+161,Khedira,83,CM,29
+162,Perišić,83,LM,27
+163,Mandžukić,83,ST,30
+164,Muslera,83,GK,30
+165,Bruno,83,CM,32
+166,Brahimi,83,LW,26
+167,Giovinco,83,CF,29
+168,Luiz Gustavo,83,CDM,29
+169,Musacchio,83,CB,26
+170,Oscar,83,CAM,25
+171,Trapp,83,GK,26
+172,Kagawa,83,CAM,27
+173,Pedro,83,LM,29
+174,Glik,83,CB,28
+175,Mustafi,83,CB,24
+176,ter Stegen,83,GK,24
+177,Subašić,83,GK,31
+178,Rodríguez,83,LB,24
+179,Medel,83,CDM,29
+180,Aurier,83,RB,23
+181,Perin,83,GK,23
+182,Insigne,83,LW,25
+183,Lopes,83,GK,25
+184,Nolito,83,LW,29
+185,Konoplyanka,83,LM,26
+186,Bellarabi,83,RM,26
+187,Carvajal,83,RB,24
+188,João Mário,83,RM,23
+189,Giménez,83,CB,21
+190,Slimani,83,ST,28
+191,Casillas,82,GK,35
+192,Pirlo,82,CM,37
+193,Motta,82,CDM,34
+194,Evra,82,LB,35
+195,Jagielka,82,CB,34
+196,Victor Valdés,82,GK,34
+197,David Villa,82,ST,34
+198,Kaká,82,CAM,34
+199,Marchetti,82,GK,33
+200,Zabaleta,82,RB,31
+201,Raffael,82,CF,31
+202,Gabi,82,CM,33
+203,Gómez,82,ST,31
+204,Gignac,82,ST,30
+205,Raúl Albiol,82,CB,31
+206,Costil,82,GK,29
+207,Biglia,82,CDM,30
+208,Perrin,82,CB,31
+209,Dembélé,82,CM,29
+210,Sagna,82,RB,33
+211,Nasri,82,LM,29
+212,Škrtel,82,CB,31
+213,Castro,82,CM,29
+214,Viviano,82,GK,30
+215,Sirigu,82,GK,29
+216,Jardel,82,CB,30
+217,Guardado,82,CM,29
+218,Piszczek,82,RB,31
+219,Bojan,82,CAM,26
+220,Schneiderlin,82,CDM,26
+221,Witsel,82,CM,27
+222,Bender,82,CB,27
+223,Beñat,82,CM,29
+224,Kjær,82,CB,27
+225,Coleman,82,RB,27
+226,Lallana,82,CAM,28
+227,Ćorluka,82,CB,30
+228,Rami,82,CB,30
+229,Sakho,82,CB,26
+230,Karnezis,82,GK,31
+231,Arnautović,82,LM,27
+232,Sigurðsson,82,CAM,27
+233,Adrien Silva,82,CM,27
+234,N'Zonzi,82,CDM,27
+235,Bonaventura,82,LM,27
+236,Wilshere,82,CM,24
+237,Parejo,82,CM,27
+238,Iborra,82,CDM,28
+239,Ander Herrera,82,CM,27
+240,Cuadrado,82,RM,28
+241,Shaqiri,82,RM,24
+242,Lovren,82,CB,27
+243,Matip,82,CB,25
+244,de Vrij,82,CB,24
+245,Casemiro,82,CDM,24
+246,Horn,82,GK,23
+247,Danilo Pereira,82,CDM,25
+248,Lucas,82,RW,24
+249,Koulibaly,82,CB,25
+250,Morata,82,ST,23
+251,Icardi,82,ST,23
+252,Roberto Firmino,82,CF,24
+253,Sterling,82,LM,21
+254,Butland,82,GK,23
+255,Florenzi,82,RB,25
+256,Karius,82,GK,23
+257,Savić,82,CB,25
+258,Umtiti,82,CB,22
+259,Vázquez,82,CAM,27
+260,Marquinhos,82,CB,22
+261,Carrasco,82,LM,23
+262,Vardy,82,ST,29
+263,Berardi,82,RW,22
+264,Martial,82,LM,20
+265,Rulli,82,GK,24
+266,Sportiello,82,GK,24
+267,Bailly,82,CB,22
+268,Tiago,81,CM,35
+269,van Persie,81,ST,33
+270,Eto'o,81,ST,35
+271,Gerrard,81,CM,36
+272,Howard,81,GK,37
+273,Carrick,81,CDM,35
+274,Drogba,81,ST,38
+275,Fernando Torres,81,ST,32
+276,Moyá,81,GK,32
+277,Mathieu,81,CB,32
+278,Rubén Castro,81,ST,35
+279,Carrasso,81,GK,34
+280,Adler,81,GK,31
+281,Fernandinho,81,CM,31
+282,Milner,81,CM,30
+283,Srna,81,RB,34
+284,Mirante,81,GK,33
+285,Diego López,81,GK,34
+286,Eremenko,81,CAM,29
+287,Vermaelen,81,CB,30
+288,Schmeichel,81,GK,29
+289,Walcott,81,LM,27
+290,Falcao,81,ST,30
+291,Cabaye,81,CDM,30
+292,Vela,81,RW,27
+293,Shawcross,81,CB,28
+294,Lamela,81,RM,24
+295,Raúl García,81,CAM,30
+296,Mirallas,81,LM,28
+297,Astori,81,CB,29
+298,Candreva,81,RW,29
+299,Reid,81,CB,28
+300,Fernández,81,CM,30
+301,Vieirinha,81,RM,30
+302,Nacho Monreal,81,LB,30
+303,Trémoulinas,81,LB,30
+304,Layún,81,LB,28
+305,Sergio Asenjo,81,GK,27
+306,Rémy,81,ST,29
+307,Wijnaldum,81,LM,25
+308,Yanga-M'Biwa,81,CB,27
+309,Jovetić,81,ST,26
+310,Parolo,81,CM,31
+311,Benteke,81,ST,25
+312,José Callejón,81,RW,29
+313,Mikel San José,81,CDM,27
+314,Zieler,81,GK,27
+315,Honda,81,RM,30
+316,Kıvrak,81,GK,28
+317,Smolnikov,81,RB,28
+318,Ganso,81,CAM,26
+319,Dzagoev,81,CM,26
+320,Camacho,81,CDM,26
+321,McCarthy,81,CDM,25
+322,Walker,81,RB,26
+323,Taison,81,CAM,28
+324,Nkoulou,81,CB,26
+325,Bürki,81,GK,25
+326,Daniel Carriço,81,CB,28
+327,Coquelin,81,CDM,25
+328,Iturraspe,81,CDM,27
+329,Strootman,81,CM,26
+330,Bony,81,ST,27
+331,De Marcos,81,RB,27
+332,Clyne,81,RB,25
+333,El Shaarawy,81,LW,23
+334,Blind,81,CB,26
+335,Orellana,81,RW,30
+336,Iago Aspas,81,ST,29
+337,Pereyra,81,CM,25
+338,Areola,81,GK,23
+339,Gonalons,81,CDM,27
+340,Schürrle,81,LM,25
+341,Víctor Ruíz,81,CB,27
+342,Özyakup,81,CM,23
+343,Pizzi,81,RM,26
+344,Herrmann,81,RM,25
+345,Marc Bartra,81,CB,25
+346,Gabbiadini,81,ST,24
+347,Bakambu,81,ST,25
+348,Barkley,81,CAM,22
+349,Lucas Pérez,81,ST,28
+350,André André,81,CM,27
+351,Acerbi,81,CB,28
+352,Allan,81,CM,25
+353,Volland,81,ST,24
+354,Kurzawa,81,LB,24
+355,Deulofeu,81,RM,22
+356,Iñigo Martínez,81,CB,25
+357,Batshuayi,81,ST,22
+358,Jorginho,81,CM,24
+359,Shatov,81,LM,26
+360,Promes,81,RM,24
+361,Salah,81,RW,24
+362,Bruno Peres,81,RWB,26
+363,Süle,81,CB,21
+364,Coman,81,LW,20
+365,Maksimović,81,CB,24
+366,Kanté,81,CM,25
+367,Fekir,81,RW,23
+368,Marco Asensio,81,CAM,20
+369,Keane,80,ST,36
+370,Totti,80,CF,39
+371,Sorrentino,80,GK,37
+372,Defoe,80,ST,33
+373,İnan,80,CM,31
+374,Topal,80,CDM,30
+375,Hutchinson,80,CDM,33
+376,Huth,80,CB,32
+377,Ochoa,80,GK,31
+378,Gómez,80,LW,28
+379,Sosa,80,CAM,31
+380,Jesús Navas,80,RM,30
+381,Podolski,80,RM,31
+382,Clichy,80,LB,31
+383,Bradley,80,CDM,29
+384,Herrera,80,CM,26
+385,Manuel Fernandes,80,CAM,30
+386,Dante,80,CB,32
+387,Debuchy,80,RB,31
+388,Fabiański,80,GK,31
+389,Valencia,80,RB,31
+390,Rose,80,LB,26
+391,Şahin,80,CDM,28
+392,Fábio Coentrão,80,LB,28
+393,Wass,80,CM,27
+394,Ayew,80,RM,26
+395,Adán,80,GK,29
+396,Eder,80,ST,29
+397,Ivanović,80,RB,32
+398,Alexandre Pato,80,ST,27
+399,Hernanes,80,CM,31
+400,Chedjou,80,CB,31
+401,Fejsa,80,CDM,28
+402,Sissoko,80,RM,27
+403,Kruse,80,CF,28
+404,Roberto,80,GK,30
+405,Henderson,80,CM,26
+406,Ogbonna,80,CB,28
+407,Perotti,80,CF,28
+408,Traoré,80,RM,28
+409,Feghouli,80,RW,26
+410,Giuliano,80,CAM,26
+411,Gibbs,80,LB,26
+412,Drinkwater,80,CM,26
+413,Welbeck,80,ST,25
+414,Asamoah,80,CM,27
+415,Noboa,80,CM,31
+416,Marlos,80,CAM,28
+417,Schmelzer,80,LB,28
+418,Kolodziejczak,80,CB,24
+419,Hitz,80,GK,29
+420,Mangala,80,CB,25
+421,Immobile,80,ST,26
+422,Mario Gaspar,80,RB,25
+423,Corona,80,RW,23
+424,Cabella,80,CAM,26
+425,Baumann,80,GK,26
+426,Didavi,80,CAM,26
+427,Neto,80,GK,27
+428,Adrián,80,GK,29
+429,Bruma,80,CB,24
+430,Kampl,80,CM,25
+431,Rakitskyi,80,CB,27
+432,Abdennour,80,CB,27
+433,Guilavogui,80,CDM,26
+434,Danilo,80,RB,25
+435,Ben Yedder,80,ST,26
+436,Hernández,80,CM,29
+437,Rode,80,CDM,25
+438,Iličić,80,CF,28
+439,Saponara,80,CAM,24
+440,Murillo,80,CB,24
+441,Rafinha,80,CM,23
+442,Ntep,80,LM,24
+443,Jesé,80,LW,23
+444,Depay,80,LM,22
+445,Zaza,80,ST,25
+446,Carrillo,80,RM,25
+447,Zouma,80,CB,21
+448,Nastasić,80,CB,23
+449,Shaw,80,LB,21
+450,Sergio Rico,80,GK,23
+451,Çalhanoğlu,80,CAM,22
+452,Can,80,CM,22
+453,Kostić,80,LM,23
+454,Ziyech,80,CAM,23
+455,Samu Castillejo,80,LM,21
+456,Alli,80,CAM,20
+457,Boufal,80,LW,23
+458,Gayà,80,LB,21
+459,Meyer,80,CAM,21
+460,Williams,80,RW,22
+461,Rafa,80,LM,23
+462,Lemos,80,CB,20
+463,Eliseu,79,LB,32
+464,Maxwell,79,LB,35
+465,Tošić,79,RM,29
+466,Iraizoz,79,GK,35
+467,Meier,79,ST,33
+468,Felipe Melo,79,CDM,33
+469,Morgan,79,CB,32
+470,Bruno Alves,79,CB,34
+471,D'Alessandro,79,CAM,35
+472,Gönül,79,RB,31
+473,Wendt,79,LB,30
+474,Young,79,LM,31
+475,Palacio,79,ST,34
+476,Dempsey,79,CAM,33
+477,Quagliarella,79,ST,33
+478,Ménez,79,ST,29
+479,Javi García,79,CDM,29
+480,Llorente,79,ST,31
+481,Rossi,79,ST,29
+482,Radu,79,LB,29
+483,Danilo,79,CB,32
+484,dos Santos,79,ST,27
+485,Mario Suárez,79,CM,29
+486,Sow,79,LM,30
+487,Junuzović,79,CM,28
+488,Boateng,79,CAM,29
+489,Fernández,79,CAM,30
+490,Ospina,79,GK,28
+491,Wernbloom,79,CDM,30
+492,Johnson,79,LM,28
+493,Miguel Veloso,79,CDM,30
+494,Gradel,79,LW,28
+495,Amrabat,79,ST,29
+496,Fernando,79,CDM,29
+497,Papadopoulos,79,CB,24
+498,Mariano,79,RB,30
+499,Kolarov,79,LB,30
+500,Szczęsny,79,GK,26
+501,Balotelli,79,ST,26
+502,Montero,79,LM,27
+503,Smolov,79,ST,26
+504,Dzyuba,79,ST,28
+505,Doumbia,79,ST,28
+506,N'Diaye,79,CDM,26
+507,Lanzini,79,CAM,23
+508,Dragović,79,CB,25
+509,Salvio,79,RM,26
+510,Töre,79,RM,24
+511,Badstuber,79,CB,27
+512,Jaume Costa,79,LB,28
+513,Montoya,79,RB,25
+514,Coates,79,CB,25
+515,Zaha,79,RM,23
+516,Oxlade-Chamberlain,79,RM,23
+517,Bruno,79,CB,26
+518,Tonelli,79,CB,26
+519,Gabriel,79,CB,25
+520,Felipe Anderson,79,LW,23
+521,Geis,79,CDM,23
+522,Vestergaard,79,CB,24
+523,van Dijk,79,CB,25
+524,Joãozinho,79,LM,27
+525,Héctor Bellerín,79,RB,21
+526,Brooks,79,CB,23
+527,Bernat,79,LB,23
+528,Baselli,79,CM,24
+529,Sánchez,79,RM,31
+530,Bernard,79,CAM,24
+531,Višća,79,RM,26
+532,Willems,79,LB,22
+533,Kovačić,79,CM,22
+534,Vietto,79,ST,22
+535,Samaris,79,CDM,27
+536,Mané,79,RM,24
+537,Óliver Torres,79,CM,21
+538,Fred,79,CM,23
+539,Goretzka,79,CM,21
+540,Quintero,79,CAM,23
+541,João Cancelo,79,RB,22
+542,Hysaj,79,RB,22
+543,Rugani,79,CB,22
+544,Hahn,79,ST,26
+545,Tah,79,CB,20
+546,Correa,79,ST,21
+547,Halilović,79,CAM,20
+548,Sané,79,RM,20
+549,Danilo,79,CM,20
+550,Koziello,79,CM,20
+551,Lampard,78,CM,38
+552,Cassano,78,CF,34
+553,César Navas,78,CB,36
+554,Lennon,78,RM,29
+555,Gourcuff,78,CAM,30
+556,Ciman,78,CB,31
+557,Montolivo,78,CDM,31
+558,Mikel,78,CDM,29
+559,Denisov,78,LB,29
+560,Abate,78,RB,29
+561,Vlaar,78,CB,31
+562,Tioté,78,CDM,30
+563,Forster,78,GK,28
+564,Siqueira,78,LB,30
+565,Caicedo,78,ST,28
+566,Fellaini,78,CM,28
+567,Suchý,78,CB,28
+568,Carroll,78,ST,27
+569,Bobadilla,78,ST,29
+570,Carcela-Gonzalez,78,LM,27
+571,Maurício,78,CDM,27
+572,Moukandjo,78,ST,27
+573,Diouf,78,ST,28
+574,El Kaddouri,78,CM,26
+575,Jefferson,78,LB,28
+576,Diabaté,78,ST,28
+577,Wanyama,78,CDM,25
+578,Bolasie,78,LM,27
+579,Ekici,78,CAM,26
+580,Arslan,78,CM,26
+581,Kucka,78,CM,29
+582,Cardona,78,CAM,23
+583,Nyom,78,RB,28
+584,Gudelj,78,CDM,24
+585,Braithwaite,78,ST,25
+586,Pérez,78,RM,27
+587,Townsend,78,RM,25
+588,Aboubakar,78,ST,24
+589,Son,78,LM,24
+590,Cristian Tello,78,RW,25
+591,Musa,78,ST,23
+592,Dier,78,CDM,22
+593,Rodrigo Moledo,78,CB,28
+594,Stones,78,CB,22
+595,Niang,78,ST,21
+596,Mário Rui,78,LB,25
+597,Campbell,78,RM,24
+598,Baba,78,LB,22
+599,Ricardo Pereira,78,RB,22
+600,Sanson,78,CM,22
+601,Marković,78,RM,22
+602,Origi,78,ST,21
+603,Lemar,78,RM,20
+604,Baldé Diao,78,LW,21
+605,Wendell,78,LB,23
+606,Morales,78,LM,29
+607,Rúben Semedo,78,CB,22
+608,Tolisso,78,CM,22
+609,Nkoudou,78,LM,21
+610,Al Soma,78,ST,27
+611,Gelson Martins,78,RM,21
+612,Renato Sanches,78,CM,19
+613,Van Damme,77,CB,32
+614,Zárate,77,ST,29
+615,Abraham,77,CB,30
+616,Sosa,77,RM,29
+617,Long,77,ST,29
+618,Richards,77,CB,28
+619,Dyer,77,RM,28
+620,Grosicki,77,RW,28
+621,Okaka,77,ST,27
+622,De Maio,77,CB,29
+623,Müller,77,RM,28
+624,Alessandrini,77,RM,27
+625,Kouyaté,77,CDM,26
+626,Maicon,77,LM,26
+627,Acosta,77,LW,28
+628,Pantilimon,77,GK,29
+629,Le Marchand,77,CB,26
+630,Schelotto,77,RB,27
+631,André Pinto,77,CB,26
+632,Ings,77,ST,24
+633,Pabón,77,ST,28
+634,Fetfatzidis,77,CAM,25
+635,Pogba,77,CB,26
+636,Iturbe,77,RW,23
+637,De Préville,77,ST,25
+638,Meunier,77,RB,25
+639,Aleix Vidal,77,RB,27
+640,Okore,77,CB,24
+641,Musonda,77,LW,19
+642,Arias,77,RB,24
+643,Rüdiger,77,CB,23
+644,Alberto Moreno,77,LB,24
+645,Grimaldo,77,LB,21
+646,Szymanowski,77,LW,27
+647,Mbemba,77,CB,22
+648,Manquillo,77,RB,22
+649,Pedro Santos,77,RM,28
+650,Bruma,77,LW,21
+651,Vangioni,77,LB,29
+652,Lemina,77,CM,23
+653,Depoitre,77,ST,27
+654,Hernández,77,CAM,27
+655,Izquierdo,77,LW,24
+656,N'Doye,77,CM,30
+657,Dembélé,77,RM,19
+658,Wilson,76,ST,24
+659,Ximo Navarro,76,CB,26
+660,Janko,76,ST,33
+661,Utaka,76,ST,32
+662,Tettey,76,CDM,30
+663,Castillo,76,LM,24
+664,Frei,76,LM,22
+665,Salvador Agra,76,RW,24
+666,Atsu,76,LW,24
+667,Omeruo,76,CB,22
+668,Maxim,76,CAM,26
+669,Tagliafico,76,LB,24
+670,Hurtado,76,LM,29
+671,Anderson Talisca,76,CM,22
+672,Sánchez,76,CDM,30
+673,Deeney,76,ST,28
+674,Biabiany,76,RW,28
+675,Hernández,76,ST,26
+676,Aziz,76,CB,25
+677,Salibur,76,RM,25
+678,Fernandão,76,ST,29
+679,Kabasele,76,CB,25
+680,Antonio,76,RM,26
+681,Aquino,76,LM,26
+682,Narsingh,76,RW,26
+683,Juan Villar,76,RW,28
+684,Zeegelaar,76,LB,26
+685,Wilson,76,ST,24
+686,Ximo Navarro,76,CB,26
+687,Adriano,76,ST,28
+688,Khune,76,GK,29
+689,Bebé,76,LM,26
+690,Balta,76,CB,33
+691,Aguilar,76,RB,30
+692,Elia,76,LW,29
+693,Castillo,76,LM,24
+694,Frei,76,LM,22
+695,Salvador Agra,76,RW,24
+696,Atsu,76,LW,24
+697,Omeruo,76,CB,22
+698,Maxim,76,CAM,26
+699,Tagliafico,76,LB,24
+700,Hurtado,76,LM,29
+701,Anderson Talisca,76,CM,22
+702,Peruzzi,76,RB,24
+703,Widmer,76,RM,23
+704,Capa,76,RB,24
+705,Bastos,76,CB,24
+706,Cerutti,76,RM,24
+707,Valencia,76,ST,26
+708,Ndiaye,76,CAM,25
+709,Riedewald,76,CB,20
+710,Lozano,76,LW,21
+711,Embolo,76,RM,19
+712,Nélson Semedo,76,RB,22
+713,Donnarumma,76,GK,17
+714,Peñaranda,76,ST,19
+715,Rashford,76,ST,18
+716,Lodi,75,CDM,32
+717,Yanbaev,75,RB,32
+718,McGeady,75,RM,30
+719,Asare,75,CB,30
+720,Nababkin,75,LB,30
+721,Sinclair,75,LW,27
+722,Elustondo,75,CB,29
+723,Armero,75,LB,29
+724,Heller,75,RM,30
+725,van Aanholt,75,LB,26
+726,Kiko Olivas,75,CB,28
+727,Michel Macedo,75,RB,26
+728,Brosinski,75,RB,28
+729,Gonzalez,75,CB,27
+730,Nakoulma,75,LM,29
+731,Zukanović,75,CB,29
+732,Hansen,75,CB,27
+733,Badu,75,CM,25
+734,Gray,75,ST,25
+735,Verdi,75,CAM,24
+736,Gamboa,75,RB,26
+737,Mbodj,75,CB,26
+738,Najar,75,RB,23
+739,Traoré,75,ST,26
+740,Diaby,75,ST,25
+741,Wellington Nem,75,CAM,24
+742,Ibarbo,75,RW,26
+743,Barrow,75,RW,23
+744,Traoré,75,ST,21
+745,Kolašinac,75,LB,23
+746,Lawal,75,CDM,26
+747,Kishna,75,LW,21
+748,Werner,75,ST,20
+749,Masuaku,75,LB,22
+750,Fabra,75,LB,25
+751,Quiñones,75,LM,25
+752,Casco,75,LB,28
+753,Esiti,75,CDM,22
+754,Donsah,75,CM,20
+755,Karsdorp,75,RB,21
+756,Almirón,75,CM,22
+757,Denayer,74,CB,21
+758,Munir,74,ST,21
+759,Lenglet,74,CB,21
+760,Jaume,74,GK,25
+761,Borré,74,ST,21
+762,Leiva,74,RM,19
+763,Success,74,RW,20
+764,Malcom,74,CAM,19
+765,Hahn,74,GK,24
+766,Şahiner,74,RM,24
+767,Güral,74,ST,27
+768,Erdoğan,74,LM,24
+769,Novoseltsev,74,CB,25
+770,Eraso,74,CAM,26
+771,Kuca,74,LM,27
+772,Anderson Correia,74,LB,25
+773,Toko-Ekambi,74,ST,24
+774,Gonçalo Guedes,74,RM,19
+775,Benítez,74,ST,24
+776,Velázquez,74,CB,22
+777,David García,74,CB,22
+778,Masina,74,LB,22
+779,Gallese,74,GK,26
+780,Iheanacho,74,ST,19
+781,Sabin Merino,74,LW,24
+782,Lo Celso,74,CAM,20
+783,Ramselaar,74,CAM,20
+784,Zinchenko,74,CAM,19
+785,Matheus Pereira,74,LM,20
+786,André Silva,74,ST,20
+787,Umar,74,RM,21
+788,Dalbert,74,LB,23
+789,Rashica,74,RW,20
+790,Palhinha,74,CDM,21
+791,Bailey,74,LM,19
+792,Stojiljković,74,ST,24
+793,Diawara,74,CDM,19
+794,Lafont,74,GK,17
+795,Nivet,74,CAM,39
+796,Custódio,74,CDM,33
+797,Johansson,74,CB,34
+798,Essien,74,CDM,33
+799,Rosenberg,74,ST,33
+800,Maloney,74,CAM,33
+801,Deschacht,74,CB,35
+802,Zaccardo,74,CB,34
+803,Seube,74,CDM,37
+804,Cahill,74,ST,36
+805,Westermann,74,CB,33
+806,Bianchi,74,ST,33
+807,Green,74,GK,36
+808,Feulner,74,CM,34
+809,Pelé,74,GK,33
+810,Starke,74,GK,35
+811,Pelegrín,74,CB,37
+812,Cani,74,LM,35
+813,Lopo,74,CB,36
+814,Riesgo,74,GK,32
+815,Elana,74,GK,36
+816,Riether,74,RB,33
+817,Béria,74,LB,33
+818,Cohade,74,CM,31
+819,Giresse,74,LM,35
+820,Itandje,74,GK,33
+821,Schulz,74,CB,33
+822,Artur Moraes,74,GK,35
+823,Overmeire,74,CDM,30
+824,Huszti,74,LM,33
+825,Gobbi,74,LB,35
+826,Pandev,74,ST,33
+827,Maietta,74,CB,34
+828,Džemaili,74,CM,30
+829,Rigoni,74,CM,31
+830,Verón,74,CB,37
+831,Verza,74,CDM,29
+832,Bottinelli,74,CB,32
+833,Pocrnjic,74,GK,35
+834,Raţ,74,LB,35
+835,İrtegün,74,CB,32
+836,Kırıntılı,74,GK,31
+837,Albayrak,74,LB,25
+838,Uche,74,ST,32
+839,David García,74,RB,34
+840,Izmaylov,74,RW,34
+841,Pellissier,74,ST,37
+842,Perbet,74,ST,31
+843,Marshall,74,CB,32
+844,Barreto,74,CM,32
+845,Faurlín,74,CDM,30
+846,Lee Chung Yong,74,LM,28
+847,Muñoz,74,GK,36
+848,Hoarau,74,ST,32
+849,Sissoko,74,RM,24
+850,Gouffran,74,LM,30
+851,Toché,74,ST,33
+852,Ricardo,74,CB,36
+853,Hünemeier,74,CB,30
+854,Berisha,74,ST,31
+855,Zé Castro,74,CB,33
+856,Campestrini,74,GK,36
+857,Silvestre,74,CB,31
+858,Taylor,74,CB,30
+859,Muriqui,74,ST,30
+860,Pérez,74,CDM,36
+861,Kalachev,74,RM,35
+862,Abaev,74,GK,35
+863,Martin,74,CB,30
+864,Keogh,74,CB,30
+865,Diaby,74,CDM,30
+866,Jarvis,74,LM,30
+867,Ruddy,74,GK,29
+868,Mandanne,74,ST,31
+869,Obasi,74,ST,30
+870,Fletcher,74,ST,29
+871,Jerome,74,ST,29
+872,Digard,74,CDM,30
+873,Ortiz,74,CM,32
+874,Ulloa,74,ST,30
+875,Kwak Tae Hwi,74,CB,35
+876,Wilson,74,CB,29
+877,Sinitsyn,74,GK,28
+878,Sorbon,74,CB,33
+879,Marcelo Oliveira,74,CB,35
+880,Al Jassim,74,CDM,32
+881,Omar Ramos,74,RM,28
+882,Masiello,74,CB,30
+883,Gakpé,74,RM,29
+884,Floccari,74,ST,34
+885,Simpson,74,RB,29
+886,Randolph,74,GK,29
+887,Bastians,74,CB,28
+888,Dorrans,74,CM,29
+889,Peçanha,74,GK,36
+890,Ayala,74,CB,29
+891,Manu García,74,CDM,30
+892,Jensen,74,CM,28
+893,Bassong,74,CB,30
+894,Torrejón,74,CB,30
+895,Leto,74,CAM,30
+896,De las Cuevas,74,CAM,30
+897,Odjidja-Ofoe,74,CM,27
+898,Kljestan,74,CAM,31
+899,McCarty,74,CDM,29
+900,Movsisyan,74,ST,29
+901,Kwoun Sun Tae,74,GK,32
+902,Tošić,74,CB,31
+903,Toivonen,74,CAM,30
+904,Iturra,74,CDM,32
+905,Werner,74,LM,31
+906,Jenssen,74,CM,28
+907,Nielsen,74,CB,28
+908,Sippel,74,GK,28
+909,Eduardo da Silva,74,ST,33
+910,Bong,74,LB,28
+911,Aguilar,74,CDM,31
+912,Gönen,74,GK,28
+913,Deaux,74,CDM,27
+914,Demir,74,CB,27
+915,Traoré,74,CAM,27
+916,Peluso,74,LB,32
+917,Bracali,74,GK,35
+918,Forestieri,74,CF,26
+919,Xavi Torres,74,CDM,29
+920,Pawłowski,74,LM,29
+921,Elphick,74,CB,29
+922,Necid,74,ST,27
+923,Adilson,74,CDM,29
+924,Genevois,74,CB,28
+925,Epureanu,74,CB,29
+926,Kruse,74,RM,27
+927,Rúben Ribeiro,74,CAM,29
+928,Ricardo,74,GK,34
+929,González,74,CM,31
+930,Beauvue,74,ST,28
+931,Schwaab,74,CB,28
+932,Rui Fonte,74,ST,26
+933,Mulder,74,GK,27
+934,Mollo,74,LW,27
+935,Anita,74,CDM,27
+936,Kelly,74,RB,26
+937,Dewaest,74,CB,25
+938,Arter,74,CM,26
+939,Şişmanoğlu,74,ST,27
+940,Rhodes,74,ST,26
+941,Sánchez,74,CB,30
+942,Bessat,74,LM,30
+943,Szalai,74,ST,28
+944,Traoré,74,CB,30
+945,Forren,74,CB,28
+946,Nyland,74,GK,26
+947,Stoch,74,LM,26
+948,Rausch,74,LM,26
+949,Hernández,74,RM,28
+950,Rybus,74,LB,27
+951,Dentinho,74,CAM,27
+952,Alustiza,74,ST,32
+953,Boli,74,ST,28
+954,Maâzou,74,ST,28
+955,Douglas,74,GK,33
+956,Maidana,74,CAM,29
+957,Laborde,74,RW,28
+958,Kujović,74,ST,28
+959,Gestede,74,ST,27
+960,El Kaoutari,74,CB,26
+961,Phillips,74,RM,25
+962,Douglas,74,CB,28
+963,Cacciatore,74,RB,29
+964,Wakaso,74,LM,26
+965,Martin,74,CAM,28
+966,Villanueva,74,CAM,30
+967,Wuytens,74,CM,26
+968,Dani Pacheco,74,LM,25
+969,Sau,74,ST,28
+970,N'Dinga,74,CDM,28
+971,Lebese,74,LM,27
+972,Kozák,74,ST,27
+973,Laure,74,RB,31
+974,Alex Bergantiños,74,CDM,31
+975,Torun,74,RM,26
+976,Esswein,74,RM,26
+977,Angella,74,CB,27
+978,Nélson Oliveira,74,ST,25
+979,Toselli,74,GK,28
+980,Diekmeier,74,RB,26
+981,Sobiech,74,ST,26
+982,Diego Farías,74,CAM,26
+983,Sílvio,74,RB,28
+984,Fábio,74,LB,26
+985,Mee,74,CB,26
+986,Vejinović,74,CM,26
+987,Köybaşı,74,LB,27
+988,Ruiter,74,GK,29
+989,Zuber,74,LM,25
+990,Dani Castellano,74,LB,28
+991,José Ángel,74,LB,27
+992,Oier,74,RWB,30
+993,Opare,74,RB,25
+994,Sertic,74,CB,27
+995,De Bock,74,LB,23
+996,Ríos,74,CDM,27
+997,Öztekin,74,LM,29
+998,Besler,74,CB,29
+999,Théophile-Catherine,74,RB,26
+1000,Sepe,74,GK,25
+1001,Javi Márquez,74,CM,30
+1002,Wickham,74,ST,23
+1003,Martínez,74,LM,26
+1004,Araujo,74,CB,25
+1005,Ignatiev,74,LM,29
+1006,Krhin,74,CDM,26
+1007,Rinaudo,74,CDM,29
+1008,Rafael,74,GK,26
+1009,Prib,74,LM,26
+1010,Ngbakoto,74,LM,24
+1011,Ignjovski,74,RB,25
+1012,Jeannot,74,ST,24
+1013,Delaney,74,CM,25
+1014,Behrens,74,CDM,26
+1015,Viergever,74,CB,27
+1016,Dodô,74,LM,24
+1017,Burgstaller,74,ST,27
+1018,Isma López,74,LB,26
+1019,Rômulo,74,CM,29
+1020,Ananidze,74,CAM,23
+1021,Sobiech,74,CB,25
+1022,Lévêque,74,LB,26
+1023,Moritz,74,CM,26
